@@ -1,0 +1,136 @@
+const fulldata = [
+  {
+    id: 1,
+    title: "Couple",
+    image: "images/dataImages/couple.jpg",
+    numberOfViews: 11,
+  },
+  {
+    id: 2,
+    title: "Female",
+    image: "images/dataImages/female.jpg",
+    numberOfViews: 23,
+  },
+  {
+    id: 3,
+    title: "Fight",
+    image: "images/dataImages/fight.jpg",
+    numberOfViews: 35,
+  },
+  {
+    id: 4,
+    title: "Free",
+    image: "images/dataImages/free.jpg",
+    numberOfViews: 12,
+  },
+  {
+    id: 5,
+    title: "FreeInKiss",
+    image: "images/dataImages/freeInKiss.jpg",
+    numberOfViews: 55,
+  },
+  {
+    id: 6,
+    title: "Head",
+    image: "images/dataImages/head.jpg",
+    numberOfViews: 76,
+  },
+  {
+    id: 7,
+    title: "Kiss",
+    image: "images/dataImages/kiss.jpg",
+    numberOfViews: 89,
+  },
+  {
+    id: 8,
+    title: "Lady",
+    image: "images/dataImages/lady.jpg",
+    numberOfViews: 23,
+  },
+  {
+    id: 9,
+    title: "Look",
+    image: "images/dataImages/look.jpg",
+    numberOfViews: 10,
+  },
+  {
+    id: 10,
+    title: "LookBack",
+    image: "images/dataImages/lookBack.jpg",
+    numberOfViews: 3,
+  },
+  {
+    id: 12,
+    title: "Madam",
+    image: "images/dataImages/madam.jpg",
+    numberOfViews: 56,
+  },
+  {
+    id: 13,
+    title: "Masc",
+    image: "images/dataImages/masc.jpg",
+    numberOfViews: 10,
+  },
+  {
+    id: 14,
+    title: "Memory",
+    image: "images/dataImages/memory.jpg",
+    numberOfViews: 10,
+  },
+  {
+    id: 15,
+    title: "Mila1",
+    image: "images/dataImages/mila1.jpg",
+    numberOfViews: 10,
+  },
+  {
+    id: 16,
+    title: "Now",
+    image: "images/dataImages/now.jpg",
+    numberOfViews: 10,
+  },
+  {
+    id: 17,
+    title: "Origamy",
+    image: "images/dataImages/origamy.jpg",
+    numberOfViews: 10,
+  },
+  {
+    id: 18,
+    title: "Profile",
+    image: "images/dataImages/profil1.jpg",
+    numberOfViews: "10",
+  },
+  {
+    id: 19,
+    title: "Woman",
+    image: "images/dataImages/roselini.jpg",
+    numberOfViews: 10,
+  },
+  {
+    id: 20,
+    title: "shortHair",
+    image: "images/dataImages/shortHair.jpg",
+    numberOfViews: "10",
+  },
+  {
+    id: 20,
+    title: "Total",
+    image: "images/dataImages/total.jpg",
+    numberOfViews: 10,
+  },
+  // {
+  //   id: 21,
+  //   title: "Zebra",
+  //   image: "images/dataImages/zebra.jpg",
+  //   numberOfViews: 10,
+  // },
+  // {
+  //   id: 22,
+  //   title: "Bra",
+  //   image: "images/dataImages/bra.jpg",
+  //   numberOfViews: 10,
+  // },
+];
+
+export default fulldata;

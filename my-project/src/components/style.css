@@ -1,0 +1,17 @@
+img {
+  width: 1260px;
+  height: 450px;
+}
+
+.carousel-item {
+  transition-duration: 4s, 6s;
+}
+
+.myLogo {
+  width: 100px;
+  height: 50px;
+}
+
+h3 {
+  color: black;
+}
